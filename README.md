@@ -17,7 +17,7 @@ This project is a simple chat application developed with Flutter. It was origina
 
 1. **Clone the repository:**
 
-2. **Navigate to the project directory:**`
+2. **Navigate to the project directory:**
 
 3. **Get Flutter packages:**
 
